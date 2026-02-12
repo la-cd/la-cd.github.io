@@ -1,0 +1,1 @@
+# The Devil is in the Details: Simple Remedies for Image-to-LiDAR Representation Learning
