@@ -1,1 +1,1 @@
-# The Devil is in the Details: Simple Remedies for Image-to-LiDAR Representation Learning
+# LiDAR-Anchored Collaborative Distillation for Robust 2D Representations
