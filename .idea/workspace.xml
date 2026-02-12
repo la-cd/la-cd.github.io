@@ -1,13 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6deef707-e6b4-4114-bc27-1bb7867a9871" name="Changes" comment="Commit1">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/images/ACCV_poster.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/images/interpolate_end.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/images/interpolate_start.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/images/steve.webm" beforeDir="false" />
+    <list default="true" id="6deef707-e6b4-4114-bc27-1bb7867a9871" name="Changes" comment="Commit">
+      <change beforePath="$PROJECT_DIR$/static/images/teaser.png" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,7 +35,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1770874051234</updated>
-      <workItem from="1770874053581" duration="3585000" />
+      <workItem from="1770874053581" duration="3931000" />
     </task>
     <task id="LOCAL-00001" summary="Commit1">
       <created>1770876512198</created>
@@ -63,7 +58,21 @@
       <option name="project" value="LOCAL" />
       <updated>1770877372408</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Commit">
+      <created>1770878224536</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1770878224536</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Commit">
+      <created>1770878323262</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1770878323263</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -82,6 +91,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Commit1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Commit1" />
+    <MESSAGE value="Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit" />
   </component>
 </project>
